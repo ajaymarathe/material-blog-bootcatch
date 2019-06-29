@@ -2,10 +2,7 @@
 material blog by bootcatch team is free theme, so download, modify, do whatever you want to...
 
 ## first-shot
-[![bootcath clean blog](http://preview.bootcatch.com/bootcatch-clean-blog/img/bootcatch-clean-blog.png)](http://preview.bootcatch.com/bootcatch-clean-blog)
-
-## second-shot
-[![bootcath clean blog](http://preview.bootcatch.com/bootcatch-clean-blog/img/blog-post.png)](http://preview.bootcatch.com/bootcatch-clean-blog)
+[![bootcath clean blog](http://preview.bootcatch.com/material-blog-bootcatch/img/material-blog.png)](http://preview.bootcatch.com/material-blog-bootcatch)
 
 
 ## Clone the Repository -
