@@ -1,4 +1,4 @@
-@charset "UTF-8";
+@import url(https://fonts.googleapis.com/css?family=Poppins);@charset "UTF-8";
 
 /*!
  * Bootcatch v4.3.1
@@ -8,6 +8,10 @@
  * Licensed under MIT
  * Based on Bootstrap
 */
+
+body {
+  font-family: "Poppins", sans-serif !important;
+}
 
 .btn,
 .alert,
@@ -110,6 +114,8 @@ textarea,
   --breakpoint-md: 768px;
   --breakpoint-lg: 992px;
   --breakpoint-xl: 1200px;
+  --font-family-sans-serif: "Poppins", sans-serif !important;
+  --font-family-monospace: "Poppins", sans-serif !important;
 }
 
 *,
